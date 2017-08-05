@@ -1,0 +1,5 @@
+sum=0;
+a=int(raw_input("a"));
+for x in a:
+    sum=sum+a;
+print "the sum of n number =" +str(sum);    
